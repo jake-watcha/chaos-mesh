@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 jake-watcha/chaos-mesh is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Python](https://www.python.org) – Languages
 - [Golang](http://golang.org/) – Languages
@@ -39,11 +40,13 @@ jake-watcha/chaos-mesh is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 jake-watcha/chaos-mesh is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1005/O6AczwfV_400x400.png' alt='Golang'/> [Golang](http://golang.org/) – Languages
@@ -81,14 +84,15 @@ jake-watcha/chaos-mesh is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [jake-watcha/chaos-mesh](https://github.com/jake-watcha/chaos-mesh)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|90<br/>Tools used|11/10/23 <br/>Report generated|
+|93<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -460,9 +464,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (48)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (51)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (47)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (50)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -492,9 +496,11 @@ Full tech stack [here](/techstack.md)
 |[d3](https://www.npmjs.com/d3)|v6.5.0|12/15/21|Yue Yang |ISC|N/A|
 |[flat](https://www.npmjs.com/flat)|v5.0.2|12/15/21|Yue Yang |BSD-3-Clause|N/A|
 |[http-proxy-middleware](https://www.npmjs.com/http-proxy-middleware)|v2.0.1|12/15/21|Yue Yang |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.3|03/08/23|Yue Yang |MIT|N/A|
 |[is-ci](https://www.npmjs.com/is-ci)|v3.0.1|01/09/22|Yue Yang |MIT|N/A|
 |[js-cookie](https://www.npmjs.com/js-cookie)|v3.0.1|12/15/21|Yue Yang |MIT|N/A|
 |[js-yaml](https://www.npmjs.com/js-yaml)|v4.0.0|12/15/21|Yue Yang |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v13.1.2|03/08/23|Yue Yang |MIT|N/A|
 |[lodash.get](https://www.npmjs.com/lodash.get)|v4.4.2|02/25/22|Yue Yang |MIT|N/A|
 |[lodash.set](https://www.npmjs.com/lodash.set)|v4.3.2|02/25/22|Yue Yang |MIT|N/A|
 |[luxon](https://www.npmjs.com/luxon)|v1.28.1|01/10/23|dependabot[bot] |MIT|N/A|
@@ -513,6 +519,7 @@ Full tech stack [here](/techstack.md)
 |[source-map-explorer](https://www.npmjs.com/source-map-explorer)|v2.5.2|01/09/22|Yue Yang |Apache-2.0|N/A|
 |[uuid](https://www.npmjs.com/uuid)|v8.3.2|04/29/22|Yue Yang |MIT|N/A|
 |[yargs](https://www.npmjs.com/yargs)|v17.3.0|02/25/22|Yue Yang |MIT|N/A|
+|[yup](https://www.npmjs.com/yup)|v0.29.1|12/15/21|Yue Yang |MIT|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/service/21112/default_1346bbda8fe03e4dce5601323a3ca47a10c1ae36.png'/> Go Packages (1)
@@ -524,4 +531,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
